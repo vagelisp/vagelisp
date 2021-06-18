@@ -7,4 +7,4 @@ I am a contributor to Open Source projects and a WordCamp Speaker & Organiser.
 I also love Running, Food, and Video Games. 
 
 
-[LinkedIn 💼](https://www.linkedin.com/in/vagelisp/)&nbsp; [Twitter 🐦](https://twitter.com/vagpapdev) &nbsp; [Website 🌍](https://vagelis.dev) &nbsp; [Email 📬](mailto:hello@vagelis.dev)
+[LinkedIn](https://www.linkedin.com/in/vagelisp/)&nbsp; [Twitter](https://twitter.com/vagpapdev) &nbsp; [Website](https://vagelis.dev) &nbsp; [Email](mailto:hello@vagelis.dev)
