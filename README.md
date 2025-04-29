@@ -2,7 +2,7 @@
 
 I'm **Vagelis**, a full stack software developer from **Greece** 🇬🇷
 
-I build modern web and mobile apps using technologies like **JavaScript**, **TypeScript**, **Node.js**, **React**, **Astro**, and **Strapi**. I'm passionate about developer experience, performance, and clean architecture — and I enjoy working across the entire stack, from UX to infrastructure.
+I build modern web and mobile apps using technologies like **JavaScript**, **TypeScript**, **Node.js**, **React**, **Vue**, **Astro**, **Strapi** and more. I'm passionate about developer experience, performance, and clean architecture — and I enjoy working across the entire stack, from UX to infrastructure.
 
 I also **prototype electronics**, design **hardware-integrated solutions** using **microcontrollers** (ESP8266, Arduino, etc.), and experiment with **3D printing** — blending code with the physical world to create smart tools, displays, and devices.
 
