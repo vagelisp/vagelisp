@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **Vagelis**, a **freelance full stack software developer** from **Greece** 🇬🇷
+I'm **Vagelis**, a **Freelance Full Stack Software Developer** from **Greece** 🇬🇷
 
 I build modern web and mobile apps using technologies like **JavaScript**, **TypeScript**, **Node.js**, **React**, **Vue**, **Astro**, **Strapi**, and more. 
 
