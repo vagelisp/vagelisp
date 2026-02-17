@@ -10,7 +10,7 @@ I also **prototype electronics**, design **hardware-integrated solutions** using
 
 I'm an **Open Source contributor** and have built several plugins and tools, especially in the **WordPress** and **Strapi** ecosystems. I'm also a **WordCamp Speaker & Organizer**, passionate about growing and supporting developer communities.
 
-Outside of tech, I’m into **running**, **food**, **video games**, and (yes) **more food** 🍜
+Outside of tech, I’m into **coffee**, **video games**, **food**, and **movies**
 
 🚀 Currently building [wp-notificator.com](https://wp-notificator.com) , a powerful open source notification system for developers and site owners.
 
