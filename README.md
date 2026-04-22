@@ -12,7 +12,7 @@ I'm an **Open Source contributor** and have built several plugins and tools, esp
 
 Outside of tech, I’m into **coffee**, **video games**, **food**, and **movies**
 
-🚀 Currently building [wp-notificator.com](https://wp-notificator.com) , a powerful open source notification system for developers and site owners.
+🚀 Currently building [Notificator Project](https://notificator-project.com) , a powerful open source notification system for developers and site owners.
 
 🧩 Want to connect or collaborate?  
 [LinkedIn](https://www.linkedin.com/in/vagelisp/) • [Twitter](https://twitter.com/vagpapdev) • [Bluesky](https://bsky.app/profile/vagelis.dev) • [WordPress.org](https://profiles.wordpress.org/eboxnet/) • [Website](https://vagelis.dev) • [Email](mailto:hello@vagelis.dev)
